@@ -104,3 +104,6 @@ spiderディレクトリにできる。
 ## 複数の条件をAND条件で指定する
 []でくくった属性セレクタをそのまま並べれば、AND条件になる  
 `[class*=m-miM][class*=title]`
+## 参考
+感謝！  
+https://itsakura.com/css-multi-selector
