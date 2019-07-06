@@ -4,6 +4,7 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [packages]
+twisted = ">=19.2.1"
 scrapy = "*"
 service-identity = "*"
 
